@@ -1,0 +1,10 @@
+customtkinter
+google-genai
+faster-whisper
+pyaudio
+numpy
+mouse
+torch
+torchaudio
+python-dotenv
+num2words
